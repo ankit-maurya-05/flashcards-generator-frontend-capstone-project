@@ -38,45 +38,19 @@ Method 1. Using downloaded ZIP file from GITHUB.
 npm install
 ```
 
-2.Change directory
-
-```bash
-cd <project-name>
-```
-
-3.Excution command (it will open localhost server)
+2.Excution command (it will open localhost server)
 
 ```bash
 npm start
 ```
 
-Method 2. Using clone method.
 
-1.Clone the repository
-
-```bash
-git clone https://github.com/github_username_/project-name.git
-```
-
-2.Install NPM packages
-
-```bash
-npm install
-```
-
-3.Excution command
-
-```bash
-npm start
-```
 
 Note:
 
 If you are not able to use Tailwind CSS, open official Tailwind CSS website and Follow the steps to set up for React environment.
 
-## Author
 
-- [@Venkatesha](https://github.com/venkateshb007)
 
 ## Acknowledgements
 
